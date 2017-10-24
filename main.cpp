@@ -3,8 +3,7 @@
 
 /* Program Structure:
 User inputs the number of people starting in the initial circle.
-Program outputs actions performed, e.g. '2' kills '3', etc..
-Programs runs solution, outputtin the winning place in the circle.
+Programs runs solution, outputting the winning soldier in the circle.
 */
 
 using namespace std;
